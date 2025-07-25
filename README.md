@@ -1,4 +1,4 @@
-﻿# Customer Retention Analysis using Logistic Regression
+﻿# Customer Churn Analysis using Logistic Regression
 
 
 This project aims to predict customer churn in a telecom company using **Logistic Regression**. Early identification of at-risk customers can help businesses retain users through targeted strategies.
